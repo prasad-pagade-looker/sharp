@@ -4,6 +4,8 @@ view: order_items {
 
   ## Prasad's comments
 
+  ## Prasad's comments2
+
   dimension: id {
     primary_key: yes
     type: number
